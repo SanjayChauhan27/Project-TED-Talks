@@ -4,7 +4,7 @@
 TED Conferences, LLC (Technology, Entertainment, Design) is an American media organization that posts talks online for free distribution under the slogan “ideas worth spreading”. TED’s early emphasis was on technology and design, consistent with its Silicon Valley origins. It has since broadened its perspective to include talks on many scientific, cultural, political, humanitarian and academic topics. For more information visit [Click](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program/what-is-a-tedx-talk).
 
 ## What this project offers?
-After continuous research,data cleaning, data wrangling, analysis and visualization, this report has been prepared offering some of the key performance indicators and facts regarding TED Talks namely Most and Least popular content, Most watched authors, Yearly progression of TED Talks from early years to 2022 are some to name.
+After continuous research,data cleaning, data wrangling, analysis and visualization, this report has been prepared offering some of the key performance indicators and facts regarding TED Talks namely Most and Least popular content, Most watched authors, Yearly progression of TED Talks from early years to 2022 are to name some.
 ## content
 - List of most popular shows with title names
 - List of least popular shows with title names
